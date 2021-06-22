@@ -48,7 +48,7 @@ Kotlin offers nice and descriptive code style guide as part of its official [doc
 
 ## Groovy
 
-Follow the official [style guide](http://groovy-lang.org/style-guide.html). There is no linter or formatter yet, so be careful while writing your code or reviewing someone else's.
+Follow the official [style guide](http://groovy-lang.org/style-guide.html). In addition, you can use [groovy-lint](https://github.com/nvuillam/npm-groovy-lint).
 
 ## Other languages
 
